@@ -14,7 +14,6 @@
 
 <p align="center">
   <a href="https://sto-portfolio.vercel.app"><b>Portfolio</b></a> &nbsp;•&nbsp;
-  <a href="#what-im-building">What I'm building</a> &nbsp;•&nbsp;
   <a href="#selected-work">Selected work</a> &nbsp;•&nbsp;
   <a href="#research">Research</a> &nbsp;•&nbsp;
   <a href="#how-i-work">How I work</a>
@@ -26,20 +25,13 @@ I also do independent research in philosophy of religion and analytic theology, 
 
 ---
 
-## What I'm building
-
-**[braingent-sto](https://github.com/SimonOcampo1/braingent-sto)** — Claude Code has no native way to sync your config, skills and memory between machines. This turns a private git repo into that substrate: your `~/.claude` config, the memories the agent writes, and the transcript of every session, synced with two keystrokes. The backend is written against the Python standard library alone, with no runtime dependencies, and ships a terminal UI built directly on `msvcrt` and ANSI escapes plus a React dashboard with a 3D knowledge graph. Every artifact stays plain text in your own repo, so you can `grep` it, edit it by hand, and `git revert` it.
-
-**[machine-learning-app](https://github.com/SimonOcampo1/machine-learning-app)** — A machine learning study site built for two friends starting from zero: 24 topics across 6 phases, from what a variable is up to neural networks. Diagrams draw themselves on scroll, exercises are graded in the browser, and progress is written to `localStorage` before the network so it survives a failed request.
-
-**[next-level-readme](https://github.com/SimonOcampo1/next-level-readme)** — A Claude Code skill that writes a repo's README to a fixed standard and renders its 3:1 banner and social preview from the project's own palette and typefaces. The banner above came out of it. HTML to PNG through headless Chromium, no dependencies.
-
----
-
 ## Selected work
 
 | Project | What it is | Live |
 |---|---|---|
+| [braingent-sto](https://github.com/SimonOcampo1/braingent-sto) 🚧 | Turns a private git repo into the substrate Claude Code is missing: config, memories and session transcripts synced between machines with two keystrokes. Pure stdlib Python, no daemon and no API key, and every artifact stays plain text you can `grep` and `git revert` | — |
+| [machine-learning-app](https://github.com/SimonOcampo1/machine-learning-app) | A machine learning study site built for two friends starting from zero: 24 topics across 6 phases. Diagrams draw themselves on scroll, exercises are graded in the browser, and progress is written to `localStorage` before the network so it survives a failed request | [↗](https://machine-learning-app-nu.vercel.app) |
+| [next-level-readme](https://github.com/SimonOcampo1/next-level-readme) | A Claude Code skill that writes a repo's README to a fixed standard and renders its banner from the project's own palette and typefaces. The banner above came out of it. HTML to PNG through headless Chromium, no dependencies | — |
 | [generador-academico-rag](https://github.com/SimonOcampo1/generador-academico-rag) | RAG crossing a relational database of real academic records with a vector store of the degree syllabus. Writes study plans and trajectory reports that cite concrete subjects and grades instead of inventing them | — |
 | [legacy-core](https://github.com/SimonOcampo1/legacy-core) | Private multi-group memory archive: relational member directory, shared timeline, media gallery and long-form narratives, with filters that survive navigation. React 19 + Appwrite | — |
 | [MateKnow](https://github.com/BuiattiPedronNazareno/MateKnow) | Gamified learning platform on Next.js and NestJS over PostgreSQL. Real-time competitive modes over WebSockets validate LaTeX maths challenges and programming exercises against automated tests | — |
@@ -50,28 +42,29 @@ I also do independent research in philosophy of religion and analytic theology, 
 | [botany-landing](https://github.com/SimonOcampo1/botany-landing) | A lab preserving the fragrance of extinct species. Parallax, GSAP, dynamic ScrollSpy | [↗](https://botany-landing.vercel.app) |
 | [professional-portfolio](https://github.com/SimonOcampo1/professional-portfolio) | Bilingual portfolio (ES/EN), GSAP animations, Lenis smooth scroll | [↗](https://sto-portfolio.vercel.app) |
 
+<sub>🚧 marks what is still in active development. Everything else is finished.</sub>
+
 ---
 
 ## Research
 
-Philosophy of religion and analytic theology, working on stage II of cosmological arguments and on the historical reliability of religious texts.
+I work in philosophy of religion and analytic theology. Some of what I have published:
 
 - **Strategies for stage II of cosmological arguments** — *International Journal for Philosophy of Religion*, 96(1), 55–88 (2024). [Read it](https://rdcu.be/dWvzi)
 - **Estrategias para la Fase II de los Argumentos Cosmológicos** — pre-print, 2023. [PhilPapers](https://philpapers.org/rec/OCAEPL)
 - **La Confiabilidad Histórica de los Evangelios** — essay, 2022. [PhilPapers](https://philpapers.org/rec/OCALCH)
 
-[ORCID 0009-0002-6246-9261](https://orcid.org/0009-0002-6246-9261)
-
 ---
 
 ## How I work
 
-Plain text over databases when a database isn't earning its keep. The standard library before a dependency. Small tools that do one thing, wired together, instead of one that does everything.
+Creativity, aesthetics and minimalism, in that order. Simplicity wins every time: the version with less in it is almost always the one that survives.
 
-Most of my agent tooling exists because I hit the same wall twice and got tired of it.
+I like letting my imagination run loose, and then dragging whatever it finds back into something that actually runs.
+
+And underneath all of it, headaches included, this is fun. That is the part I refuse to optimise away.
 
 <p align="center">
   <a href="https://sto-portfolio.vercel.app"><b>Portfolio</b></a> &nbsp;•&nbsp;
-  <a href="https://www.linkedin.com/in/simon-ocampo/">LinkedIn</a> &nbsp;•&nbsp;
-  <a href="https://orcid.org/0009-0002-6246-9261">ORCID</a>
+  <a href="https://www.linkedin.com/in/simon-ocampo/">LinkedIn</a>
 </p>
