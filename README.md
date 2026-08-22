@@ -59,11 +59,7 @@ I work in philosophy of religion and analytic theology. Some of what I have publ
 ## How I work
 
 > [!IMPORTANT]
-> Creativity, aesthetics and minimalism, in that order. Simplicity wins every time: the version with less in it is almost always the one that survives.
->
-> I like letting my imagination run loose, and then dragging whatever it finds back into something that actually runs.
->
-> And underneath all of it, headaches included, this is fun. That is the part I refuse to optimise away.
+> *Creativity, aesthetics and minimalism, in that order. Simplicity wins every time: the version with less in it is almost always the one that survives. I like letting my imagination run loose, and then dragging whatever it finds back into something that actually runs. And underneath all of it, headaches included, this is fun. That is the part I refuse to optimise away.*
 
 <p align="center">
   <a href="https://sto-portfolio.vercel.app"><b>Portfolio</b></a> &nbsp;•&nbsp;
